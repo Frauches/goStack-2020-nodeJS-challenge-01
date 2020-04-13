@@ -1,1 +1,13 @@
-# goStack-2020-nodeJS-challenge-01
+> NodeJS Concepts
+
+## Install dependencies
+
+```sh
+yarn
+```
+
+## Run tests
+
+```sh
+yarn test
+```
